@@ -1,0 +1,13 @@
+Instruction to run java from cmd line
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cd F:\Abisheik_Class_ Works\SUMMER-2016\DSSO\ceng6534-hw1-JayarajaPerumal\DSSO_Schduling_Algorithm
+
+set path=C:\Program Files\Java\jdk1.8.0_60\bin
+
+javac -d class src\controller\SchedulingOperation.java
+javac -d class -cp class src\controller\SchedulingController.java
+javac -d class -cp class src\controller\SchedulingMain.java
+
+java -cp class controller.SchedulingMain
+

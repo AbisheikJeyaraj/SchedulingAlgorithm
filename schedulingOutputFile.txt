@@ -1,0 +1,20 @@
+############################################
+         Scheduling LIST_L algorithm        
+############################################
+Operation :: 0 scheduled @ clock cycle :: 1
+Operation :: 1 scheduled @ clock cycle :: 1
+Operation :: 2 scheduled @ clock cycle :: 5
+Operation :: 3 scheduled @ clock cycle :: 11
+Operation :: 4 scheduled @ clock cycle :: 7
+Operation :: 5 scheduled @ clock cycle :: 5
+Operation :: 6 scheduled @ clock cycle :: 7
+Operation :: 7 scheduled @ clock cycle :: 7
+Operation :: 8 scheduled @ clock cycle :: 9
+Operation :: 9 scheduled @ clock cycle :: 11
+Operation :: 10 scheduled @ clock cycle :: 13
+Operation :: 11 scheduled @ clock cycle :: 5
+Operation :: 12 scheduled @ clock cycle :: 9
+Operation :: 13 scheduled @ clock cycle :: 15
+############################################
+         Latency Estimated :: 14
+############################################
